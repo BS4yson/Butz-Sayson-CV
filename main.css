@@ -41,13 +41,14 @@ td {
 	padding-bottom: 50px;
 }
 
-/*#profile {
-	filter: drop-shadow(3px 3px 3px #999);
-}*/
+.justified {
+	text-align: justify;
+}
 
 #address, #email {
 	color: #000;
 }
+
 
 /*loader start*/
 .loader {
